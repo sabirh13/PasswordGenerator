@@ -22,8 +22,13 @@ THEN the password is either displayed in an alert or written to the page
 
 ---------------------------------------------------------------------------------------
 When I click generate password I am promted for how many characters
+
 when I click generate password I am asked to confirm use of special characters
+
 When I click generate password I am asked to confirm use of numeric characters
+
 When I click generate password I am asked to confirm use of lower case characters 
+
 When I click generate password I am asked to confirm use of upper case characters 
+
 When I click generate password I am given a password 
